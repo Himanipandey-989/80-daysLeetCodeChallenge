@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
