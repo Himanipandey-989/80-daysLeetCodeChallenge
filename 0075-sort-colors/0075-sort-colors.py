@@ -1,16 +1,30 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
-        i=0
-        z=0
-        t=len(nums)-1
-        while(i<=t):
-            if nums[i]==0:
-                nums[z],nums[i]=nums[i],nums[z]
-                z+=1
-                i+=1
-            elif nums[i]==1:
-                i+=1
+    def sortColors(self, arr: List[int]) -> None:
+        
+        left=0
+        right=len(arr)-1
+        digit =0
+        while digit<=right:
+            if arr[digit]== 0:
+                
+                temp = arr[left]
+                arr[left]=arr[digit]
+                arr[digit]=temp 
+                
+                left=left+1
+                digit = digit+1
+                
+            elif arr[digit] == 1:
+                
+                digit = digit+1
+                
             else:
-                nums[i],nums[t]=nums[t],nums[i]
-                t-=1
-        return nums
+                
+                temp = arr[digit]
+                arr[digit]=arr[right]
+                arr[right]=temp 
+                
+                right= right-1
+                
+                
+        return arr 
