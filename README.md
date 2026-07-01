@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
