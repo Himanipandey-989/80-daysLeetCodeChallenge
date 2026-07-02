@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [3731-find-missing-elements](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
