@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0001-two-sum](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0001-two-sum](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
