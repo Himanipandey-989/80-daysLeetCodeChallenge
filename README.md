@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
