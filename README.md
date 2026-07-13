@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0001-two-sum](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0078-subsets](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Himanipandey-989/80-daysLeetCodeChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
